@@ -97,6 +97,7 @@
 ### [Examples]
   * [Lambda Chat](https://github.com/cloudnative/lambda-chat)
   * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner)
+  * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/)
 
 ### Other Alternatives
   * [**Cloud Functions**](https://cloud.google.com/functions/docs)
